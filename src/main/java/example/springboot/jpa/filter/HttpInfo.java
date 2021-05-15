@@ -5,9 +5,7 @@ import lombok.Data;
 
 import java.util.Map;
 
-/**
- * Created by abhilekhsingh on 12/16/16.
- */
+
 @Data
 @Builder
 public class HttpInfo {

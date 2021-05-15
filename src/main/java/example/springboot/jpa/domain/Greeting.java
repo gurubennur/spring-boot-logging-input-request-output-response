@@ -1,9 +1,7 @@
 package example.springboot.jpa.domain;
 
 
-/**
- * Created by abhilekhsingh on 12/16/16.
- */
+
 public class Greeting {
 
     private final long id;

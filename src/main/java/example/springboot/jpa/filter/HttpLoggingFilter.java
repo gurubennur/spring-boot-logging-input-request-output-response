@@ -19,9 +19,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-/**
- * Created by abhilekhsingh041992 on 12/14/16.
- */
+
 @Component
 public class HttpLoggingFilter extends OncePerRequestFilter {
 

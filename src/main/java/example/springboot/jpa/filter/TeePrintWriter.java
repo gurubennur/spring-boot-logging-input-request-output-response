@@ -2,9 +2,7 @@ package example.springboot.jpa.filter;
 
 import java.io.PrintWriter;
 
-/**
- * Created by abhilekhsingh041992 on 12/14/16.
- */
+
 public class TeePrintWriter  extends PrintWriter {
 
     PrintWriter branch;

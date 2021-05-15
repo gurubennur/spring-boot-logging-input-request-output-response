@@ -10,9 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import example.springboot.jpa.domain.Employee;
 import example.springboot.jpa.domain.Greeting;
 
-/**
- * Created by abhilekhsingh on 12/16/16.
- */
+
 @RestController
 public class GreetingController {
 
